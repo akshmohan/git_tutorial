@@ -1,5 +1,5 @@
 void main() {
-  int a = 10;
+  int a = 22;
   int b = 2;
 
   print(a + b);
