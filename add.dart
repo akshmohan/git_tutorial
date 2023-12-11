@@ -1,9 +1,9 @@
 void main() {
 
-  int a = 20;
+  int a = 200;
 
   int b = 2;
 
-  print(a * b);
+  print(a + b);
 
 }
